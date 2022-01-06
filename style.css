@@ -33,10 +33,7 @@ body
     color: #181818;
 }
 
-#bloc_page
-{
-    width: 800px;
-    margin: auto;
+
 }
 
 @media all and (max-width:1024PX)
@@ -76,7 +73,7 @@ header
 
 #logo img
 {
-    width: 59px;
+    width: 70px;
     height: 60px;
 }
 
